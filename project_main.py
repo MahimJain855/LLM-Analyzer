@@ -13,8 +13,8 @@ from langchain_community.vectorstores import FAISS
 from dotenv import load_dotenv
 load_dotenv()  # take environment variables from .env (especially openai api key)
 
-st.title(" News Research")
-st.sidebar.title("News Article URLs")
+st.title(" LLM Analyzer ")
+st.sidebar.title(" URLs")
 
 urls = []
 for i in range(3):

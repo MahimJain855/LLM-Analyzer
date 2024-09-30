@@ -1,4 +1,9 @@
-nstallation
+A Large Language Model (LLM) Chatbot is an AI-driven conversational agent designed to understand and respond to natural language inputs. Powered by advanced models like OpenAI's GPT, it can maintain context, generate relevant responses, and adapt to a wide range of tasks, from customer service to personalized assistance.
+
+![Screenshot 2024-09-29 165613](https://github.com/user-attachments/assets/bedd8220-36c5-4975-b8bf-9c802665fea4)
+
+
+Installation
 1.Clone this repository to your local machine using:
 
   git clone https://github.com/MahimJain855.git
